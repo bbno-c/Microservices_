@@ -1,5 +1,4 @@
 # NodeJS_TestTask
-GREEN-API test assignment
 
 ## Usage:
 1) clone the repository
